@@ -1,0 +1,25 @@
+#capcha screct value change:
+
+loginrotue.php
+signup.php
+signupruder.php
+
+$screct=' variable ar mdde bosbe'			  //recaptcha serect key
+
+
+# rechapcha api value change
+
+login.php
+usersignup.php
+ridersignup.php
+
+data-sitekey="value bosaite hbe"     <!-- recapcha -->
+
+
+
+# email verification
+
+otpsend.php
+
+$mail->Username = '';                 //your email
+$mail->Password = '';                       // your email less secure password 
